@@ -5,3 +5,4 @@ Here is how to install the tool:
 2. sudo apt install git
 3. sudo apt install bash
 4. sudo apt install curl git
+5. git clone https://github.com/teguhajg/DDOS-DOS-PingFlood.git
